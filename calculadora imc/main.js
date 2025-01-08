@@ -29,24 +29,5 @@ calcular.addEventListener("click", () => {
         
 
         resultado.textContent = `${nome} seu IMC é  ${valorImc} e você está ${calcularImc} `;
-
     }
-
-
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
